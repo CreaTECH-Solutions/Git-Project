@@ -13,6 +13,7 @@
 		BB4C3C8623DE2C60004FC976 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB4C3C8523DE2C60004FC976 /* Assets.xcassets */; };
 		BB4C3C8923DE2C60004FC976 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB4C3C8823DE2C60004FC976 /* Preview Assets.xcassets */; };
 		BB4C3C8C23DE2C60004FC976 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB4C3C8A23DE2C60004FC976 /* LaunchScreen.storyboard */; };
+		BB4C3C9423DE2D90004FC976 /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB4C3C9323DE2D90004FC976 /* ModalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BB4C3C8823DE2C60004FC976 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BB4C3C8B23DE2C60004FC976 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BB4C3C8D23DE2C60004FC976 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BB4C3C9323DE2D90004FC976 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				BB4C3C7F23DE2C5F004FC976 /* AppDelegate.swift */,
 				BB4C3C8123DE2C5F004FC976 /* SceneDelegate.swift */,
 				BB4C3C8323DE2C5F004FC976 /* ContentView.swift */,
+				BB4C3C9323DE2D90004FC976 /* ModalView.swift */,
 				BB4C3C8523DE2C60004FC976 /* Assets.xcassets */,
 				BB4C3C8A23DE2C60004FC976 /* LaunchScreen.storyboard */,
 				BB4C3C8D23DE2C60004FC976 /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				BB4C3C8023DE2C5F004FC976 /* AppDelegate.swift in Sources */,
 				BB4C3C8223DE2C5F004FC976 /* SceneDelegate.swift in Sources */,
+				BB4C3C9423DE2D90004FC976 /* ModalView.swift in Sources */,
 				BB4C3C8423DE2C5F004FC976 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
